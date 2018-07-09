@@ -9,3 +9,4 @@ apt install python2-pip -y &> /dev/null
 pip2 install -r requirements.txt &> /dev/null
 
 echo "Done"
+python2 spammer.py
